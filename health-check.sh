@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Checks disk usage and Nginx service health.
+
 STATUS=0
 
 HOSTNAME=$(hostname)
