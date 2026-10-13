@@ -2,6 +2,8 @@
 
 # Checks disk usage and Nginx service health.
 
+# Disk usage warning threshold : 80%
+
 STATUS=0
 
 HOSTNAME=$(hostname)
